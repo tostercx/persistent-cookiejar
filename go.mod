@@ -21,5 +21,4 @@ require (
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce // indirect
 	gopkg.in/retry.v1 v1.0.0-20161025181430-c09f6b86ba4d
 	gopkg.in/yaml.v2 v2.2.2 // indirect
-	launchpad.net/gocheck v0.0.0-20140225173054-000000000087 // indirect
 )
