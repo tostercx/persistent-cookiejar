@@ -1,4 +1,4 @@
-module github.com/orirawlings/persistent-cookiejar
+module github.com/tostercx/persistent-cookiejar
 
 go 1.12
 
