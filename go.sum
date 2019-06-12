@@ -42,5 +42,3 @@ gopkg.in/retry.v1 v1.0.0-20161025181430-c09f6b86ba4d h1:ih0kpGhByDNURm0i9jGYMmBV
 gopkg.in/retry.v1 v1.0.0-20161025181430-c09f6b86ba4d/go.mod h1:vVowKz5q49oxHG8AyXjsr6MGDyX2pQRrhjrsAou+stU=
 gopkg.in/yaml.v2 v2.2.2 h1:ZCJp+EgiOT7lHqUV2J862kp8Qj64Jo6az82+3Td9dZw=
 gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
-launchpad.net/gocheck v0.0.0-20140225173054-000000000087 h1:Izowp2XBH6Ya6rv+hqbceQyw/gSGoXfH/UPoTGduL54=
-launchpad.net/gocheck v0.0.0-20140225173054-000000000087/go.mod h1:hj7XX3B/0A+80Vse0e+BUHsHMTEhd0O4cpUHr/e/BUM=
